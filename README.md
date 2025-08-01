@@ -9,7 +9,7 @@ An interactive dashboard analyzing the growth, distribution, and trends in elect
 - Trends by vehicle make, model, and manufacturer  
 
 ## 📊 Tools Used
-- Power BI / Tableau *(specify your tool)*  
+- Tableau  
 - CSV / Excel dataset from government or open data sources  
 
 ## 📁 How to Use
